@@ -1,10 +1,7 @@
 streamlit
 geopandas
+pyogrio
 folium
 leafmap
 pandas
-matplotlib
-contextily
-pyproj
-shapely
-fiona
+requests
