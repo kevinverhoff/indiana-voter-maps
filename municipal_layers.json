@@ -1,0 +1,523 @@
+{
+ "tables": [],
+ "layers": [
+  {
+   "isCoGoEnabled": false,
+   "extent": {
+    "ymin": 37.87541500000003,
+    "xmin": -87.94308699999993,
+    "ymax": 41.76069700000005,
+    "xmax": -84.80568399999999,
+    "spatialReference": {
+     "falseM": -100000,
+     "xyTolerance": 8.983152841195215E-9,
+     "mUnits": 10000,
+     "zUnits": 10000,
+     "latestWkid": 4269,
+     "zTolerance": 0.001,
+     "wkid": 4269,
+     "xyUnits": 9.999999999999999E8,
+     "mTolerance": 0.001,
+     "falseX": -400,
+     "falseY": -400,
+     "falseZ": -100000
+    }
+   },
+   "isDataBranchVersioned": false,
+   "supportsApplyEditsWithGlobalIds": false,
+   "maxRecordCount": 2000,
+   "infoInEstimates": [
+    "extent",
+    "count"
+   ],
+   "datesInUnknownTimezone": false,
+   "type": "Feature Layer",
+   "onlyAllowTrueCurveUpdatesByTrueCurveClients": true,
+   "supportsAttachmentsByUploadId": true,
+   "editingInfo": {"lastEditDate": 1776626121111},
+   "relationships": [],
+   "supportsAttachmentsResizing": true,
+   "cimVersion": "2.9.0",
+   "isDataArchived": false,
+   "id": 0,
+   "spatialReference": {
+    "falseM": -100000,
+    "xyTolerance": 8.983152841195215E-9,
+    "mUnits": 10000,
+    "zUnits": 10000,
+    "latestWkid": 4269,
+    "zTolerance": 0.001,
+    "wkid": 4269,
+    "xyUnits": 9.999999999999999E8,
+    "mTolerance": 0.001,
+    "falseX": -400,
+    "falseY": -400,
+    "falseZ": -100000
+   },
+   "supportsStatistics": true,
+   "supportedExportFormats": "sqlite,filegdb,shapefile,csv,geojson",
+   "standardMaxRecordCount": 2000,
+   "isDataVersioned": false,
+   "templates": [],
+   "hasGeometryProperties": true,
+   "supportsAdvancedQueries": true,
+   "parentLayer": null,
+   "currentVersion": 11.5,
+   "canScaleSymbols": false,
+   "hasZ": false,
+   "advancedEditingCapabilities": {
+    "supportsAsyncApplyEdits": true,
+    "supportsApplyEditsbyUploadID": true,
+    "supportsReturnEditResults": true,
+    "supportedSqlFormatsInCalculate": [
+     "standard"
+    ],
+    "supportedApplyEditsUploadIDFormats": "JSON,PBF"
+   },
+   "objectIdField": "fid",
+   "supportsQuantizationEditMode": true,
+   "hasContingentValuesDefinition": false,
+   "name": "Census Municipal Boundaries 2021",
+   "allowTrueCurvesUpdates": false,
+   "displayField": "namelsad",
+   "supportsCalculate": true,
+   "fields": [
+    {
+     "nullable": false,
+     "defaultValue": null,
+     "editable": false,
+     "length": 4,
+     "type": "esriFieldTypeOID",
+     "modelName": "fid",
+     "domain": null,
+     "name": "fid",
+     "alias": "FID"
+    },
+    {
+     "nullable": true,
+     "editable": true,
+     "defaultValue": null,
+     "length": 2,
+     "description": "{\"fieldValueType\":\"\",\"value\":\"State FIPS Code\"}",
+     "type": "esriFieldTypeString",
+     "modelName": "statefp",
+     "domain": null,
+     "name": "statefp",
+     "alias": "State FIPS Code"
+    },
+    {
+     "nullable": true,
+     "editable": true,
+     "defaultValue": null,
+     "length": 5,
+     "description": "{\"fieldValueType\":\"\",\"value\":\"Place FIPS Code\"}",
+     "type": "esriFieldTypeString",
+     "modelName": "placefp",
+     "domain": null,
+     "name": "placefp",
+     "alias": "Place FIPS Code"
+    },
+    {
+     "nullable": true,
+     "editable": true,
+     "defaultValue": null,
+     "length": 100,
+     "description": "{\"fieldValueType\":\"\",\"value\":\"Name and the translated legal/statistical area\\ndescription for place\"}",
+     "type": "esriFieldTypeString",
+     "modelName": "namelsad",
+     "domain": null,
+     "name": "namelsad",
+     "alias": "Place Name and Type"
+    },
+    {
+     "nullable": true,
+     "editable": true,
+     "defaultValue": null,
+     "length": 254,
+     "description": "{\"fieldValueType\":\"\",\"value\":\"Place Name\"}",
+     "type": "esriFieldTypeString",
+     "modelName": "municipalt",
+     "domain": null,
+     "name": "municipalt",
+     "alias": "Place Name"
+    },
+    {
+     "nullable": true,
+     "editable": true,
+     "defaultValue": null,
+     "length": 254,
+     "description": "{\"fieldValueType\":\"\",\"value\":\"Place Type\"}",
+     "type": "esriFieldTypeString",
+     "modelName": "munic_typ",
+     "domain": null,
+     "name": "munic_typ",
+     "alias": "Place Type"
+    },
+    {
+     "virtual": true,
+     "nullable": true,
+     "editable": false,
+     "defaultValue": null,
+     "domain": null,
+     "name": "SHAPE__Length",
+     "alias": "SHAPE__Length",
+     "type": "esriFieldTypeDouble"
+    },
+    {
+     "virtual": true,
+     "nullable": true,
+     "editable": false,
+     "defaultValue": null,
+     "domain": null,
+     "name": "SHAPE__Area",
+     "alias": "SHAPE__Area",
+     "type": "esriFieldTypeDouble"
+    }
+   ],
+   "maxRecordCountFactor": 1,
+   "dateFieldsTimeReference": {
+    "timeZoneIANA": "Etc/UTC",
+    "respectsDaylightSaving": false,
+    "timeZone": "UTC"
+   },
+   "supportsFieldDescriptionProperty": true,
+   "hasM": false,
+   "allowGeometryUpdates": true,
+   "useStandardizedQueries": true,
+   "globalIdField": null,
+   "sourceSpatialReference": {
+    "wkt": "GEOGCS[\"GCS_North_American_1983\",DATUM[\"D_North_American_1983\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]",
+    "falseM": -100000,
+    "mUnits": 10000,
+    "zUnits": 10000,
+    "zTolerance": 0.001,
+    "wkid": 4269,
+    "xyUnits": 9.999999999999999E8,
+    "mTolerance": 0.001,
+    "falseX": -400,
+    "falseY": -400,
+    "falseZ": -100000
+   },
+   "description": "Includes both incorporated cities &amp;amp; towns, as well as census designated places which are unincorporated.",
+   "syncCanReturnChanges": true,
+   "supportsAsyncDelete": true,
+   "supportedSpatialRelationships": [
+    "esriSpatialRelIntersects",
+    "esriSpatialRelContains",
+    "esriSpatialRelCrosses",
+    "esriSpatialRelEnvelopeIntersects",
+    "esriSpatialRelOverlaps",
+    "esriSpatialRelTouches",
+    "esriSpatialRelWithin"
+   ],
+   "geometryProperties": {
+    "shapeAreaFieldName": "SHAPE__Area",
+    "shapeLengthFieldName": "SHAPE__Length",
+    "units": "esriDecimalDegrees"
+   },
+   "supportsRollbackOnFailureParameter": true,
+   "isDataReplicaTracked": false,
+   "standardMaxRecordCountNoGeometry": 16000,
+   "supportsTruncate": true,
+   "indexes": [
+    {
+     "name": "r1250_sde_rowid_uk",
+     "isUnique": true,
+     "description": "",
+     "fields": "fid",
+     "isAscending": true
+    },
+    {
+     "name": "a816_ix1",
+     "isUnique": false,
+     "description": "",
+     "fields": "shape",
+     "isAscending": true
+    }
+   ],
+   "supportedAppendSourceFilterFormats": "featureService",
+   "editFieldsInfo": null,
+   "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+   "GUIDFormat": "O",
+   "minScale": 0,
+   "hasAttachments": false,
+   "queryBinsCapabilities": {
+    "supportsFirstDayOfWeek": false,
+    "supportedNormalizationTypes": [
+     "boxCox",
+     "field",
+     "inverse",
+     "log",
+     "naturalLog",
+     "percentOfTotal",
+     "squareRoot"
+    ],
+    "supportedStatisticTypes": [
+     "count",
+     "sum",
+     "min",
+     "max",
+     "avg",
+     "stddev",
+     "var",
+     "percentile_cont",
+     "percentile_disc"
+    ],
+    "supportsNormalization": true,
+    "supportsSnapToData": true,
+    "supportsFixedIntervalBin": true,
+    "supportsStackBy": true,
+    "supportsAutoIntervalBin": true,
+    "supportsFixedBoundariesBin": true,
+    "supportsDateBin": true,
+    "supportsSplitBy": true,
+    "supportsReturnFullIntervalBin": true
+   },
+   "advancedQueryCapabilities": {
+    "supportsSqlExpression": true,
+    "supportsQueryWithResultType": true,
+    "supportsQueryRelatedPagination": true,
+    "supportsQueryWithCacheHint": false,
+    "supportsQueryWithDatumTransformation": true,
+    "supportsCurrentUserQueries": true,
+    "supportsQueryAttachmentsWithReturnUrl": true,
+    "fullTextSearchCapabilities": {
+     "supportsOperator": true,
+     "supportsSearchOperator": true
+    },
+    "supportsDefaultSR": true,
+    "supportsQueryDateBins": false,
+    "supportsQueryWithLodSR": true,
+    "supportsPaginationOnAggregatedQueries": true,
+    "supportsPagination": true,
+    "supportsMaxRecordCountFactor": true,
+    "fullTextSearchableFields": [],
+    "supportsStatistics": true,
+    "supportsOrderBy": true,
+    "supportsReturningGeometryProperties": true,
+    "supportsFullTextSearch": true,
+    "supportsQueryWithDistance": true,
+    "supportsLod": true,
+    "supportsSpatialAggregationStatistics": false,
+    "supportsCountDistinct": true,
+    "supportsAdvancedQueryRelated": true,
+    "supportsQueryAttachments": true,
+    "supportsReturningQueryExtent": true,
+    "supportsQueryAttachmentsCountOnly": true,
+    "supportsOrderByOnlyOnLayerFields": false,
+    "supportsOutFieldSqlExpression": true,
+    "supportsTopFeaturesQuery": true,
+    "supportsReturningGeometryEnvelope": true,
+    "supportsDistinct": true,
+    "supportsReturningGeometryCentroid": true,
+    "supportsQueryAnalytic": true,
+    "supportsPercentileStatistics": true,
+    "supportsHavingClause": true
+   },
+   "supportsValidateSQL": true,
+   "enableZDefaults": true,
+   "serviceItemId": "1a98a2b77d2d4d3a8977de53b8d6e6a3",
+   "allowUpdateWithoutMValues": true,
+   "supportsCoordinatesQuantization": true,
+   "types": [
+    {
+     "templates": [
+      {
+       "name": "Town",
+       "description": "",
+       "prototype": {
+        "attributes": {
+         "statefp": null,
+         "namelsad": null,
+         "municipalt": null,
+         "munic_typ": "Town",
+         "placefp": null
+        }
+       }
+      }
+     ],
+     "name": "Town",
+     "id": "Town"
+    },
+    {
+     "templates": [
+      {
+       "name": "CDP",
+       "description": "",
+       "prototype": {
+        "attributes": {
+         "statefp": null,
+         "namelsad": null,
+         "municipalt": null,
+         "munic_typ": "CDP",
+         "placefp": null
+        }
+       }
+      }
+     ],
+     "name": "CDP",
+     "id": "CDP"
+    },
+    {
+     "templates": [
+      {
+       "name": "City",
+       "description": "",
+       "prototype": {
+        "attributes": {
+         "statefp": null,
+         "namelsad": null,
+         "municipalt": null,
+         "munic_typ": "City",
+         "placefp": null
+        }
+       }
+      }
+     ],
+     "name": "City",
+     "id": "City"
+    }
+   ],
+   "capabilities": "Query,Extract",
+   "maxScale": 0,
+   "supportsAppend": true,
+   "supportsExceedsLimitStatistics": true,
+   "defaultVisibility": true,
+   "advancedQueryAnalyticCapabilities": {
+    "supportsAsync": true,
+    "supportsLinearRegression": true,
+    "supportsPercentileAnalytic": false
+   },
+   "hasMetadata": true,
+   "supportedAppendFormats": "csv,excel,featureCollection,featureService,geojson,imageCollection,jsonl,pbf,shapefile",
+   "tileMaxRecordCount": 2000,
+   "typeIdField": "munic_typ",
+   "supportsASyncCalculate": true,
+   "supportedQueryFormats": "JSON, geoJSON, PBF",
+   "sqlParserVersion": "PG_11.4.0",
+   "drawingInfo": {
+    "renderer": {
+     "field1": "munic_typ",
+     "visualVariables": [
+      {
+       "valueExpression": "$view.scale",
+       "expression": "view.scale",
+       "stops": [
+        {
+         "size": 1.5,
+         "value": 55631
+        },
+        {
+         "size": 0.75,
+         "value": 173847
+        },
+        {
+         "size": 0.375,
+         "value": 695389
+        },
+        {
+         "size": 0,
+         "value": 1390778
+        }
+       ],
+       "type": "sizeInfo",
+       "target": "outline"
+      }
+     ],
+     "uniqueValueInfos": [
+      {
+       "symbol": {
+        "outline": {
+         "color": [
+          26,
+          26,
+          26,
+          255
+         ],
+         "width": 0.75,
+         "style": "esriSLSSolid",
+         "type": "esriSLS"
+        },
+        "color": [
+         194,
+         194,
+         194,
+         129
+        ],
+        "style": "esriSFSSolid",
+        "type": "esriSFS"
+       },
+       "label": "Town",
+       "value": "Town"
+      },
+      {
+       "symbol": {
+        "outline": {
+         "color": [
+          92,
+          92,
+          92,
+          82
+         ],
+         "width": 0.75,
+         "style": "esriSLSSolid",
+         "type": "esriSLS"
+        },
+        "color": [
+         194,
+         194,
+         194,
+         72
+        ],
+        "style": "esriSFSSolid",
+        "type": "esriSFS"
+       },
+       "label": "CDP",
+       "value": "CDP"
+      },
+      {
+       "symbol": {
+        "outline": {
+         "color": [
+          26,
+          26,
+          26,
+          255
+         ],
+         "width": 0.75,
+         "style": "esriSLSSolid",
+         "type": "esriSLS"
+        },
+        "color": [
+         194,
+         194,
+         194,
+         137
+        ],
+        "style": "esriSFSSolid",
+        "type": "esriSFS"
+       },
+       "label": "City",
+       "value": "City"
+      }
+     ],
+     "type": "uniqueValue"
+    },
+    "transparency": 20
+   },
+   "geometryField": {
+    "sqlType": "sqlTypeOther",
+    "nullable": true,
+    "editable": true,
+    "name": "shape",
+    "typeName": "st_geometry",
+    "length": 2147483647,
+    "type": "esriFieldTypeGeometry"
+   },
+   "copyrightText": "Source: U.S. Census Bureau",
+   "zDefault": 0,
+   "geometryType": "esriGeometryPolygon",
+   "supportsLayerOverrides": true
+  }
+ ]
+}

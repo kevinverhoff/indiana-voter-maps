@@ -1,0 +1,454 @@
+{
+ "isCoGoEnabled": false,
+ "extent": {
+  "ymin": 4547221.747199997,
+  "xmin": -9807013.0936,
+  "ymax": 5125301.456500001,
+  "xmax": -9438171.7808,
+  "spatialReference": {
+   "falseM": -100000,
+   "xyTolerance": 0.001,
+   "mUnits": 10000,
+   "zUnits": 10000,
+   "latestWkid": 3857,
+   "zTolerance": 0.001,
+   "wkid": 102100,
+   "xyUnits": 10000,
+   "mTolerance": 0.001,
+   "falseX": -20037700,
+   "falseY": -30241100,
+   "falseZ": -100000
+  }
+ },
+ "isDataBranchVersioned": false,
+ "supportsApplyEditsWithGlobalIds": true,
+ "maxRecordCount": 2000,
+ "infoInEstimates": [
+  "extent",
+  "count"
+ ],
+ "datesInUnknownTimezone": false,
+ "type": "Feature Layer",
+ "onlyAllowTrueCurveUpdatesByTrueCurveClients": true,
+ "syncEnabled": true,
+ "supportsAttachmentsByUploadId": true,
+ "editingInfo": {"lastEditDate": 1750423879849},
+ "relationships": [],
+ "supportsAttachmentsResizing": true,
+ "cimVersion": "3.3.0",
+ "isDataArchived": false,
+ "id": 1,
+ "spatialReference": {
+  "falseM": -100000,
+  "xyTolerance": 0.001,
+  "mUnits": 10000,
+  "zUnits": 10000,
+  "latestWkid": 3857,
+  "zTolerance": 0.001,
+  "wkid": 102100,
+  "xyUnits": 10000,
+  "mTolerance": 0.001,
+  "falseX": -20037700,
+  "falseY": -30241100,
+  "falseZ": -100000
+ },
+ "supportsStatistics": true,
+ "supportedExportFormats": "sqlite,filegdb,shapefile,csv,geojson",
+ "standardMaxRecordCount": 2000,
+ "isDataVersioned": false,
+ "templates": [
+  {
+   "name": "Voting District Boundaries 2024",
+   "description": "",
+   "drawingTool": "esriFeatureEditToolPolygon",
+   "prototype": {
+    "attributes": {
+     "p24": null,
+     "c": null,
+     "s": null,
+     "shape_le_1": null,
+     "p24_stfid": null,
+     "county": null,
+     "h": null,
+     "shape_leng": null,
+     "p24county": null
+    }
+   }
+  }
+ ],
+ "hasGeometryProperties": true,
+ "supportsAdvancedQueries": true,
+ "parentLayer": null,
+ "currentVersion": 11.5,
+ "canScaleSymbols": false,
+ "hasZ": false,
+ "advancedEditingCapabilities": {
+  "supportsAsyncApplyEdits": true,
+  "supportsApplyEditsbyUploadID": true,
+  "supportsReturnEditResults": true,
+  "supportedSqlFormatsInCalculate": [
+   "standard"
+  ],
+  "supportedApplyEditsUploadIDFormats": "JSON,PBF"
+ },
+ "objectIdField": "fid",
+ "supportsQuantizationEditMode": true,
+ "hasContingentValuesDefinition": false,
+ "name": "Voting District Boundaries 2024",
+ "allowTrueCurvesUpdates": false,
+ "displayField": "county",
+ "supportsCalculate": true,
+ "fields": [
+  {
+   "nullable": false,
+   "defaultValue": null,
+   "editable": false,
+   "length": 4,
+   "type": "esriFieldTypeOID",
+   "modelName": "fid",
+   "domain": null,
+   "name": "fid",
+   "alias": "fid"
+  },
+  {
+   "modelName": "county",
+   "nullable": true,
+   "editable": true,
+   "defaultValue": null,
+   "domain": null,
+   "name": "county",
+   "length": 3,
+   "alias": "COUNTY",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "modelName": "p24",
+   "nullable": true,
+   "editable": true,
+   "defaultValue": null,
+   "domain": null,
+   "name": "p24",
+   "length": 100,
+   "alias": "P24",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "modelName": "p24county",
+   "nullable": true,
+   "editable": true,
+   "defaultValue": null,
+   "domain": null,
+   "name": "p24county",
+   "length": 5,
+   "alias": "P24COUNTY",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "modelName": "p24_stfid",
+   "nullable": true,
+   "editable": true,
+   "defaultValue": null,
+   "domain": null,
+   "name": "p24_stfid",
+   "length": 10,
+   "alias": "P24_STFID",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "modelName": "c",
+   "nullable": true,
+   "editable": true,
+   "defaultValue": null,
+   "domain": null,
+   "name": "c",
+   "length": 3,
+   "alias": "C",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "modelName": "s",
+   "nullable": true,
+   "editable": true,
+   "defaultValue": null,
+   "domain": null,
+   "name": "s",
+   "length": 3,
+   "alias": "S",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "modelName": "h",
+   "nullable": true,
+   "editable": true,
+   "defaultValue": null,
+   "domain": null,
+   "name": "h",
+   "length": 3,
+   "alias": "H",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "modelName": "shape_leng",
+   "nullable": true,
+   "editable": true,
+   "defaultValue": null,
+   "domain": null,
+   "name": "shape_leng",
+   "alias": "Shape_Leng",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "modelName": "shape_le_1",
+   "nullable": true,
+   "editable": true,
+   "defaultValue": null,
+   "domain": null,
+   "name": "shape_le_1",
+   "alias": "Shape_Le_1",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "virtual": true,
+   "nullable": true,
+   "editable": false,
+   "defaultValue": null,
+   "domain": null,
+   "name": "SHAPE__Length",
+   "alias": "SHAPE__Length",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "virtual": true,
+   "nullable": true,
+   "editable": false,
+   "defaultValue": null,
+   "domain": null,
+   "name": "SHAPE__Area",
+   "alias": "SHAPE__Area",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "nullable": false,
+   "editable": false,
+   "defaultValue": null,
+   "domain": null,
+   "name": "globalid",
+   "length": 38,
+   "alias": "globalid",
+   "type": "esriFieldTypeGlobalID"
+  }
+ ],
+ "maxRecordCountFactor": 1,
+ "dateFieldsTimeReference": {
+  "timeZoneIANA": "Etc/UTC",
+  "respectsDaylightSaving": false,
+  "timeZone": "UTC"
+ },
+ "supportsFieldDescriptionProperty": true,
+ "hasM": false,
+ "allowGeometryUpdates": true,
+ "useStandardizedQueries": true,
+ "globalIdField": "globalid",
+ "sourceSpatialReference": {
+  "wkt": "PROJCS[\"WGS_1984_Web_Mercator_Auxiliary_Sphere\",GEOGCS[\"GCS_WGS_1984\",DATUM[\"D_WGS_1984\",SPHEROID[\"WGS_1984\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Mercator_Auxiliary_Sphere\"],PARAMETER[\"False_Easting\",0.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",0.0],PARAMETER[\"Standard_Parallel_1\",0.0],PARAMETER[\"Auxiliary_Sphere_Type\",0.0],UNIT[\"Meter\",1.0]]",
+  "falseM": -100000,
+  "mUnits": 10000,
+  "zUnits": 10000,
+  "zTolerance": 0.001,
+  "wkid": 3857,
+  "xyUnits": 10000,
+  "mTolerance": 0.001,
+  "falseX": -20037700,
+  "falseY": -30241100,
+  "falseZ": -100000
+ },
+ "description": "",
+ "syncCanReturnChanges": true,
+ "supportsAsyncDelete": true,
+ "supportedSpatialRelationships": [
+  "esriSpatialRelIntersects",
+  "esriSpatialRelContains",
+  "esriSpatialRelCrosses",
+  "esriSpatialRelEnvelopeIntersects",
+  "esriSpatialRelOverlaps",
+  "esriSpatialRelTouches",
+  "esriSpatialRelWithin"
+ ],
+ "geometryProperties": {
+  "shapeAreaFieldName": "SHAPE__Area",
+  "shapeLengthFieldName": "SHAPE__Length",
+  "units": "esriMeters"
+ },
+ "supportsRollbackOnFailureParameter": true,
+ "isDataReplicaTracked": true,
+ "standardMaxRecordCountNoGeometry": 16000,
+ "supportsTruncate": false,
+ "indexes": [
+  {
+   "name": "r26808_sde_rowid_uk",
+   "isUnique": false,
+   "description": "",
+   "fields": "fid",
+   "isAscending": true
+  },
+  {
+   "name": "a24817_ix1",
+   "isUnique": false,
+   "description": "",
+   "fields": "shape",
+   "isAscending": true
+  },
+  {
+   "name": "uuid_26808",
+   "isUnique": true,
+   "description": "",
+   "fields": "globalid",
+   "isAscending": true
+  }
+ ],
+ "supportedAppendSourceFilterFormats": "featureService",
+ "editFieldsInfo": null,
+ "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+ "GUIDFormat": "O",
+ "minScale": 0,
+ "hasAttachments": false,
+ "queryBinsCapabilities": {
+  "supportsFirstDayOfWeek": false,
+  "supportedNormalizationTypes": [
+   "boxCox",
+   "field",
+   "inverse",
+   "log",
+   "naturalLog",
+   "percentOfTotal",
+   "squareRoot"
+  ],
+  "supportedStatisticTypes": [
+   "count",
+   "sum",
+   "min",
+   "max",
+   "avg",
+   "stddev",
+   "var",
+   "percentile_cont",
+   "percentile_disc"
+  ],
+  "supportsNormalization": true,
+  "supportsSnapToData": true,
+  "supportsFixedIntervalBin": true,
+  "supportsStackBy": true,
+  "supportsAutoIntervalBin": true,
+  "supportsFixedBoundariesBin": true,
+  "supportsDateBin": true,
+  "supportsSplitBy": true,
+  "supportsReturnFullIntervalBin": true
+ },
+ "advancedQueryCapabilities": {
+  "supportsSqlExpression": true,
+  "supportsQueryWithResultType": true,
+  "supportsQueryRelatedPagination": true,
+  "supportsQueryWithCacheHint": false,
+  "supportsQueryWithDatumTransformation": true,
+  "supportsCurrentUserQueries": true,
+  "supportsQueryAttachmentsWithReturnUrl": true,
+  "fullTextSearchCapabilities": {
+   "supportsOperator": true,
+   "supportsSearchOperator": true
+  },
+  "supportsDefaultSR": true,
+  "supportsQueryDateBins": false,
+  "supportsQueryWithLodSR": true,
+  "supportsPaginationOnAggregatedQueries": true,
+  "supportsPagination": true,
+  "supportsMaxRecordCountFactor": true,
+  "fullTextSearchableFields": [],
+  "supportsStatistics": true,
+  "supportsOrderBy": true,
+  "supportsReturningGeometryProperties": true,
+  "supportsFullTextSearch": true,
+  "supportsQueryWithDistance": true,
+  "supportsLod": true,
+  "supportsSpatialAggregationStatistics": false,
+  "supportsCountDistinct": true,
+  "supportsAdvancedQueryRelated": true,
+  "supportsQueryAttachments": true,
+  "supportsReturningQueryExtent": true,
+  "supportsQueryAttachmentsCountOnly": true,
+  "supportsOrderByOnlyOnLayerFields": false,
+  "supportsOutFieldSqlExpression": true,
+  "supportsTopFeaturesQuery": true,
+  "supportsReturningGeometryEnvelope": true,
+  "supportsDistinct": true,
+  "supportsReturningGeometryCentroid": true,
+  "supportsQueryAnalytic": true,
+  "supportsPercentileStatistics": true,
+  "supportsHavingClause": true
+ },
+ "subtypeField": "",
+ "supportsValidateSQL": true,
+ "enableZDefaults": true,
+ "serviceItemId": "a62a17919c804676ae318f2f82cb20db",
+ "allowUpdateWithoutMValues": true,
+ "supportsCoordinatesQuantization": true,
+ "types": [],
+ "capabilities": "Query,Sync",
+ "maxScale": 0,
+ "supportsAppend": true,
+ "supportsExceedsLimitStatistics": true,
+ "defaultVisibility": true,
+ "advancedQueryAnalyticCapabilities": {
+  "supportsAsync": true,
+  "supportsLinearRegression": true,
+  "supportsPercentileAnalytic": false
+ },
+ "hasMetadata": true,
+ "supportedAppendFormats": "csv,excel,featureCollection,featureService,geojson,imageCollection,jsonl,pbf,shapefile",
+ "tileMaxRecordCount": 2000,
+ "typeIdField": "",
+ "supportsASyncCalculate": true,
+ "supportedQueryFormats": "JSON, geoJSON, PBF",
+ "sqlParserVersion": "PG_11.4.0",
+ "drawingInfo": {
+  "renderer": {
+   "symbol": {
+    "outline": {
+     "color": [
+      110,
+      110,
+      110,
+      255
+     ],
+     "width": 0.7,
+     "style": "esriSLSSolid",
+     "type": "esriSLS"
+    },
+    "color": [
+     252,
+     231,
+     194,
+     255
+    ],
+    "style": "esriSFSSolid",
+    "type": "esriSFS"
+   },
+   "type": "simple"
+  },
+  "scaleSymbols": true,
+  "transparency": 0,
+  "labelingInfo": null
+ },
+ "geometryField": {
+  "sqlType": "sqlTypeOther",
+  "nullable": true,
+  "editable": true,
+  "name": "shape",
+  "typeName": "st_geometry",
+  "length": 2147483647,
+  "type": "esriFieldTypeGeometry"
+ },
+ "copyrightText": "",
+ "zDefault": 0,
+ "geometryType": "esriGeometryPolygon",
+ "supportsLayerOverrides": true
+}

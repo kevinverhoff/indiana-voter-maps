@@ -1,0 +1,3366 @@
+{
+ "currentVersion": 11.5,
+ "folders": [],
+ "services": [
+  {
+   "name": "Hosted/100K_USGS_Quadrangle_Boundaries",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/111th_US_Congress_Districts_USCB_2009",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/112th_US_Congress_Boundaries_USCB",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/113th_US_Congress_Districts_IED_2011",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/114th_US_Congress_Districts_ESRI_2015",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/115th_US_Congress_Boundaries_USCB",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/116th_US_Congress_Boundaries_USCB",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/117th_US_Congress_Boundaries_USCB",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/2021_2022_Publish",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/2021_2022",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/20240905_SOI_Asset_Tracking_Mapv2",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/2024_IR_303d_Layers",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/24K_USGS_Quadrangle_Boundaries",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/250k_USGS_Quadrangle_Boundaries",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/303d_Layer_2024",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/303dList2022Layer",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/416Campgrounds",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/5_mile_buffers_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/6k_USGS_Quadrangle_Boundaries",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Active_and_Abandoned_Rail_Systems_2005",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Active_DORAs_AH",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/AdditionalCapacity",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Address_Points_of_Indiana_2020",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Address_Points_of_Indiana_2021",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Address_Points_of_Indiana_2022",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Address_Points_of_Indiana_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Address_Points_of_Indiana_2024",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Address_Points_of_Indiana_2025",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Address_Points_of_Indiana_Current",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Administrative_Boundaries_of_Indiana_2020",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Administrative_Boundaries_of_Indiana_2021",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Administrative_Boundaries_of_Indiana_2022",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Administrative_Boundaries_of_Indiana_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Administrative_Boundaries_of_Indiana_2024",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Administrative_Boundaries_of_Indiana_2025",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Administrative_Boundaries_of_Indiana_Current",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Agency_counties",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/AgencyCounties",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Agriculture_Census_1997",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/AIMS_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/AIMS",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Airport_Runways_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Alexandriadrinkingwater",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/All_NLT_Projects_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Alternative_Fuel_Corridors_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Alternative_Fuel_Stations_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/AML_Data_Pilot_EDIT",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/AML_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Amtrak_Routes_2019",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Amtrak_Stations_2021",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Annual_Average_Maximum_Temperature_1971_2000",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Annual_Average_Maximum_Temperature_1981_2010",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Annual_Average_Minimum_Temperature_1971_2000",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Annual_Average_Minimum_Temperature_1981_2010",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Annual_Average_Precipitation_1961_1990",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Annual_Average_Precipitation_1971_2000",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Annual_Average_Precipitation_1981_2010",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Aquatic_Vegetation_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/AquiferData",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/AreasOfInterest",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/ArtsProjectSupportGrantees_20250331",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/ASOS_Weather_Station_Network_Stations_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/ATCAssessmentProd",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/ATCStructureAssessmentDEV",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/ATTAINS_Assessment",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Authorized_Operating_Solid_Waste_Facilities",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Auto_Salvage",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Aviation_Facilities_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Backpack_Amenities_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/BasinTeams_DNR_Water_IN_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Bedrock_Aquifer_Systems_IDNR",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Bedrock_Aquifer_Systems_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Bedrock_Aquifer_SystemsTILE",
+   "type": "MapServer"
+  },
+  {
+   "name": "Hosted/BedrockAge_DNR_IN_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Bedrock",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Bicentennial_Nature_Trust",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Big_Tree_Champions_2005",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Big_Tree_Points_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Big_Tree_Polygon_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Big_Tree_Polygons_RO2",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Bldgs_Buffer",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/BLM_CadNSDI_PLSS_Boundaries",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Block_Groups_of_Indiana_USCB_2010",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/BlockGroup_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/BMV_License_Branches_2019",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/BMV_STARS_Lookup_Data",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Boreholes_to_Bedrock",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Boundaries",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Brownfields_Site_Visits_Fieldworker1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/brownfields_v2",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Brownfields",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Building_Footprints",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Cagles_Mill_Lake_Point_layer",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Cagles_Mill_Lake",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Camping_Sites_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Canals_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Canoe_Kayak_Rental_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Carto_Resources",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Cell_Tower_Locations_2021",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Census_Block_Groups_of_Indiana_USCB_2020",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Census_Block_Groups_USCB_2000",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Census_Block_Groups_with_Population_Estimates_by_Age_and_Sex_2021",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Census_Block_Groups_with_Population_Estimates_by_Race_2020",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Census_Blocks_of_Indiana_USCB_2010",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Census_Blocks_of_Indiana_USCB_2020",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Census_Blocks_USCB_2000",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Census_Blocks_with_Population_Estimates",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Census_Data_by_County_2000",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Census_Family_Size_2000",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Census_Historical_Data_1890_2000",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Census_Landmark_Boundaries_2021",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Census_Landmark_Points_2021",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Census_Population_Density_2000",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Census_TIGER_Unified_School_Districts_of_Indiana",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Census_Tracts_of_Indiana_USCB_2010",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Census_Tracts_of_Indiana_USCB_2020",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Census_Tracts_USCB_2000",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Census_Tracts_with_Population_by_Age_and_Sex_2021",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Census_Tracts_with_Population_by_Race_2021",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Census_Urban_Areas_2020",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Charlestown_Tile_Basemap",
+   "type": "MapServer"
+  },
+  {
+   "name": "Hosted/Children_in_Poverty_by_School_District_2000",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Children_in_Poverty_by_School_District_2011",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Children_in_Poverty_by_School_District_2012",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/City_and_Town_Hall_Locations_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Civil_Townships_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Civil_Townships_with_Population_Estimates_(by_Age_and_Sex)_2021",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Civil_Townships_with_Population_Estimates_(by_Race)_2021",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Civil_Townships",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Civil_Townships",
+   "type": "VectorTileServer"
+  },
+  {
+   "name": "Hosted/CMIS_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Coal_Combustion_Waste_Impoundments",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/CoalMinePermits_View",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Colleges_and_Universities_2007",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Colleges_and_Universities_2020",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Confined_Feeding_Operations",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Congressional_Districts_of_Indiana_Current",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Conservancy_Districts_of_Indiana_20250528",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Consolidated_City_Boundaries_USCB_2020",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Contour_Indiana2withoutfeatures",
+   "type": "VectorTileServer"
+  },
+  {
+   "name": "Hosted/Contours_1foot_DNR_LakeRim_2022",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/CONTOURS_24K_USGS_IN",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Contours_2_Blackford_2012_SPE",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Contours_2_LaPorte_2013_SPW",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Contours_Spot_Elev_1foot_DNR_LakeRim_2022",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/ContoursBrownCountyTILE",
+   "type": "MapServer"
+  },
+  {
+   "name": "Hosted/COUNTY_BOUNDARIES_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/County_Boundaries_of_Indiana_2021",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/County_Boundaries_of_Indiana_2022",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/County_Boundaries_of_Indiana_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/County_Boundaries_of_Indiana_Current",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/County_Boundaries_with_Elected_Surveyor_Information",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/County_Boundaries_with_Population_Estimates_(by_Age_and_Sex)_2021",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/County_Boundaries_with_Population_Estimates_(by_Race)_2021",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/County_Boundary_and_Section_Corner_Feedback",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/County_Boundary_Compiled_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/County_Boundary_Gaps_Overlaps",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/County_Bridges_2012",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/County_Burn_Bans",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/County_CCRs_2024",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/County_GIS_and_Surveyor_Websites",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/CountyBurnBanPROD2",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/CountyLog",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Covid_Cases_By_Zip",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Cultivated_Areas_2004_USDA",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Culvert_Pipe_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/cyanobacteria",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Dam_Location_4Breachgdb_RO1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DamageAssessmentTest_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DamInundation_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DAMS_DNR_WATER_IN_RO1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DAMS_DNR_WATER_INgdb",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Dams_DOW_IN_Aug25",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Dams_Lowhead_surv_DNR_RO1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DASignIn_nonprod",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Deferred_Maintenance_READONLY",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Department_counties",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Destination_Trails_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Disaster_Recovery_EDIT",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Disaster_Recovery_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Discharge_Regions_DNR_Water_RO1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Dispersed_Camping_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DLGF_and_Data_Harvest_Parcel_Generated_Tax_Units_2022",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DLGF_Tax_Districts_Units",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DNR_Buildings_Asset_Management_Read_Only",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DNR_Districts_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DNR_Districts",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DNR_Emergency_Hospitals",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DNR_Emergency_Incident_Paths",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DNR_Emergency_Local_Incidents",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DNR_Emergency_Police_Stations_and_Fire_Stations",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DNR_Emergency_Road_Blocks_EDIT",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DNR_Emergency_Road_Blocks_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DNR_Emergency_Road_Blocks",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DNR_Emergency_Road_Closures",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DNR_Emergency_Road_Detours",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DNR_Emergency_Schools",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DNR_Emergency_Shelters",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DNR_Recreation_Sites_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DNR_Roads_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DNR_Structures_2020_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DNR_Water_Distribution_System_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DNRBuildingFootprints_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DNRGIS_DnrBuildings_DNR_MIS_IN_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DNRGIS_DnrNPSites_DNR_IN_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DNRGIS_DnrNPSites_DNR_IN",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DNRGIS_MANAGEDLANDS_MANAGERINFO_DNR_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DNRRoads_Buffer",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DnrStoryPoints_DNR_IN_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DNRTrailLine_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DORA_Designated_Permitees_",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DOW_Dam_Breach_Inundation_Area",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DOW_Unity_ATS",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DOWUnity_ATS_Records_PROD",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DOWUnity_ATS_Records_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DOWUnity_CTS_Records_PROD",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DOWUnity_FTS_Records_PROD",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DOWUnity_SEA_Records_PROD",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DOWUnity_VTS_Records_PROD",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Dry_Cleaner_and_Laundry",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DRZ_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DWD_Apprenticeship_Regions_WFL1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DWD_Label_Points",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/DWD_Regions_Map_WFL1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/e303d_2024_Lakes",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/e303d",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Earthquake_Epicenters",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Eclipse_Data",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Ecoregion_Boundaries_USGS",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Ecoregions",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Electric_Power_Transmission_Lines_2022",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/ElectricServiceOutages",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Elevation_Tier_Map_2016_2020",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Emergency_Facilities_1992",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/EMS_Impressions",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/EMS_Stations_2022",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/EMS",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Engineering_Districts",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Environmental_Stewardship_Program",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Equestrian_Facilities",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/ESA_Providers",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Ethanol_Plant_Locations_2018",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Evergreen_Libraries_and_Districts_2026",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Ex2_gdb",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Ex_layers_gdb",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Ex_TP_gdb",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Ex_TSS_gdb",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Exceptional_Use_Water",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Extra_Heavy_Duty_Highways",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/FDLLibraries",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/FeatureDASignIn_0_oic_view",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/FeatureDASignInProd",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/FeatureIN211Data",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Federal_Land_Boundaries_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Fire2021_IN20230128_2department",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Fire2021_IN20230128_4",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Fire2021_IN20230128_5",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Fire2021_IN20230128_county",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Fire2021_IN20230128_runtypes",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Fire2021_IN20230128",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Fire_Stations_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/FIRM_Flood_Hazard_Zones_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Fish_Access_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Fishing_Site_Survey_Points_Public_INPUT",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Fishing_UrbanSites_DNR_FW_IN_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Five_Mile_Buffers_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Fixed_Station_Inactive_Water_Quality_Monitoring_Sites",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Fixed_Station_Water_Quality_Monitoring_Active_Sites",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Fixed_Stations",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/FLOOD_CNMS_DNR_WATER_IN_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Flood_Elevation_Pts_DNR_Water",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/FLOOD_FEPv2_PROD",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/FLOOD_FEPv2_TEST",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/FLOOD_FEPv2",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/FLOOD_FPA_Jurisdictions_PROD",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/FLOOD_FPA_Jurisdictions_TEST",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/FLOOD_USACE_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/FLOOD_USACE_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/FLOOD_XS_EFFECTIVE_DNR_2gdb",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/FLOOD_XS_EFFECTIVE_DNR_TEST_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/FloodHazard_BestAvai_DNR_Water_PROD",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/FloodHazard_BestAvai_DNR_Water_TEST_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/FloodHazard_BestAvai_DNR_Watergdb",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/FLOODHAZARD_DNR_WATER_PROD",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/FLOODHAZARD_DNR_WATER_TEST",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Floodway_Reaches_RO1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Floodway_Reaches_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Fluvial_Erosion_Hazards_ISJ_IN_RO1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Fluvial_Erosion_Hazards_ISJ_INgdb",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Footprint_2022_WMAS",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/FW_Bathymetrygdb_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/FWA_Cards_INPUT",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/General_Assembly_House_116th_Session_Districts",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/General_Assembly_House_117th_Session_Districts",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/General_Assembly_House_118th_Session_Districts",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/General_Assembly_House_119th_Session_Districts",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/General_Assembly_Senate_116th_Session_Districts",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/General_Assembly_Senate_117th_Session_Districts",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/General_Assembly_Senate_118th_Districts",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/General_Assembly_Senate_119th_Session_Districts",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/General_Manufacturing_Facilities_2009",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Geocoder_RCL_Buffers_In_and_Near_Incorporated_Areas",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/GIO_Airports_HAZUS_IN",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/GNIS_Cemeteries_2021",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/GNIS_Lake_Shore_Features_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/GNIS_Populated_Places_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/GNIS_Stream_Features_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Grants_LMCP_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Great_Lakes_Basin_HUC8_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/GroundWater_DNR_Water_IN_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/GypsyMothPropTreatArea_DNRDEPP",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Hamilton_BathymetryRASTER",
+   "type": "MapServer"
+  },
+  {
+   "name": "Hosted/Hamilton_Lake",
+   "type": "MapServer"
+  },
+  {
+   "name": "Hosted/HamiltonBathyRaster",
+   "type": "MapServer"
+  },
+  {
+   "name": "Hosted/HamiltonOrthoLand2",
+   "type": "MapServer"
+  },
+  {
+   "name": "Hosted/HamiltonVegetation",
+   "type": "MapServer"
+  },
+  {
+   "name": "Hosted/Hazardous_Waste_Corrective_Action",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Highways_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/HighwaysTile",
+   "type": "MapServer"
+  },
+  {
+   "name": "Hosted/HillSha_Hami1",
+   "type": "MapServer"
+  },
+  {
+   "name": "Hosted/HistoricStructures_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Hoosier_National_Forest_Management_Areas_2007",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Hoosier_National_Forest_Ownership_2007",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Hospitals_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/House_Districts_of_Indiana_Current",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/House_Table",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/HUC10_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/HUC10_Boundaries",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/HUC12_Boundaries",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/HUC14_Boundaries",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/HUC2_Boundaries",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/HUC4_Boundaries",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/HUC6_Boundaries",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/HUC8_Boundaries",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/HUC_10ZoneA_Status_DNR_Water_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/HUC_8_10_12",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Hunting_Areas_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Hunting_Areas_Waterfowl_Zones",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/HuntingAreaPoints_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/HuntingContactInfo_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Hydro_Break_Lines_for_Streams_and_Lakes_2011_2020",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Hydrogeologic_Terrains_1995",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Hydrologic_Units_of_Indiana",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/HydroModel",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/HydroModelImages_2",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/HydroModelImages_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/HydroModelLibrary",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/HydromodelView_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/IAreportingProd",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/ICIS_NPDES_CSO_Outfalls",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/IDEM_Land_Sites",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/IDEM_Offices",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/IDEM_Sampling_and_Monitoring_Points_VIEW",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/IDNR_Cemetery_Boundaries",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/IDNR_Cemetery_Sites",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/IDNR_Historic_Bridges",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/IDNR_Historic_Structures",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/IGmembers1124",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/IGmembersForPublicWeb",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/IM_HWCA",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/im_layers_gdb",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Im_tn_gdb",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Im_tp_gdb",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Im_tss_gdb",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/ImageLink_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Imagery_Resolution_by_Collection_Year_WFL1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/In_layers_gdb",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/In_tn_gdb",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/In_tp_gdb",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/In_tss_gdb",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/IN_ZIP_Codes",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Incidents_400s",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Incidents_agency",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Incidents_county",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Incidents_dist",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Incidents_Types",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Incidents_Vehicle",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Incidents",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Incorp_Areas_for_2024_Update",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Incorporated_Areas_of_Indiana_Current",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Incorporated_Areas_of_Indiana_Data_Harvest_2022",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Indiana3DEPLidarAcquisitionBlockDates",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Indiana_120th_General_Assembly_House_Districts",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Indiana_120th_General_Assembly_Senate_Districts",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Indiana_2008_Reach_Index",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Indiana_Boundary_USCB_2020",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Indiana_Coastal_Watershed_Land_Cover_Analysis",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Indiana_County_Seats_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Indiana_DEM_Tile_Footprints",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Indiana_General_Assembly_121st_House_Districts",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Indiana_General_Assembly_121st_Senate_Districts",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Indiana_Imagery_Photo_Centers_2021_to_2024",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Indiana_Lakes_Public",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Indiana_Mask_Layer_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Indiana_Opportunity_Zones",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Indiana_Orthoimagery_Tile_Footprints",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Indiana_Programmatic_General_Permit_Rivers",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Indiana_State_Boundary_Current",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Indiana_State_Police_Post_Locations",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Indiana_Water_Balance_Network_2017",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/INDOT_Districts",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/INDOT_Facilities",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/INDOT_Rest_Areas",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/INDOT_SUBDISTRICTS",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/INDOT_UNITS",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Industrial_Park_Locations_2006",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/INFIP_Portal_VIEW",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/INFIP_Temp_Input",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Inspectors",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Institutional_Controls_Recorded",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Intermodal_Freight_Facilities_Pipeline_Terminals_2021",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Intermodal_Freight_Facilities_Rail_2018",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Intermodal_Passenger_Connectivity_Database_2021",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Interstates_2016",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/IURC_Prod_Boundaries_View",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/JohnsonCoWriteOff",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Kayak_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Kriging_SylvTC",
+   "type": "MapServer"
+  },
+  {
+   "name": "Hosted/Lake_Bathymetry_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Lake_Bathymetry",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LakeLevelsLOCAL_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Lakes_PublicFreshwater_DNR_RO1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Lakes_PublicFreshwater_DNR_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Land_App",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Landfill_Boundaries",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Lead_Non_Attainment_Areas_2008_Standard",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LeadRisk",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Legacy_NHD_Flowlines_2008",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Legacy_NHD_Lakes_Ponds_etc_2008",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Legacy_NHD_Misc_Points_2008",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Legacy_NHD_Rivers_Streams_etc_2008",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Legacy_Surveys_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Legislature",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LibDistUnserved",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Library_District_Boundaries_2022",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Library_Districts_Circa_2018",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Library_Locations_of_Indiana_2025",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LibraryDistricts2025MergeRichland",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LibraryDistrictsofIndiana2025",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LIT_County_Scoring",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Local_Law_Enforcement_Stations_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Long_Term_Care_Facilities_2007",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Low_Head_Dams_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_AADT",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_Access_Control",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_Bridge_Clearance",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_Bridge_Lines",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_Bridge_Point",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_Corporation",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_Crossover",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_Facility_Type",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_Federal_Aid",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_Friction",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_Functional_Classes",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_Functional_Class",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_Lane",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_Large_Culvert_Point",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_Median",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_MET",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_NHS",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_NTN",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_Parking",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_Pavement_Sections",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_Reference_Post",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_Rural_Urban",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_Shoulders",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_Speed_Limits",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_Surface_Type",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_TOID",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_Traffic_Count_Station",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_Traffic_Section",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_Turn",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LRSE_UrbanArea",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/LUST",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Major_Natural_Gas_Pipelines_2019",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Major_Roads_USCB_2020",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/ManagedLands_DNR_Open",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/ManagedLands_Federal",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/ManagedLands_LocalOpen",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/ManagedLands_NaturalAreas",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/ManagedLands_NaturePreserves",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/ManagedLandsAcre_By_County",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/ManagedLandsAll_DNR_INHD_IN_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/ManagedLandsAll_DNR_INHD_IN_OpenPublic",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/ManagedLandsAll_DNR_INHD_IN_SP",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/ManagedLandsAll_DNR_INHD_SRA",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/ManagedLandsAll_Live_HUNT",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/ManagedLandsAll_Live_Open_DNR_Managed",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Manufactured_Gas_Plants",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/March2024_WhiteWaterRiver_Metamora",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Marinas",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/McCormicks_Creek_Assets_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/McCormicks_Creek_Assets_2",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/MCSP_Area_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/MCSP_Line_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/MCSP_Point_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/MCSP_slope",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/MCSPbasemap",
+   "type": "MapServer"
+  },
+  {
+   "name": "Hosted/MCSPDamageExtent_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/MCSPDamageExtent",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/MCSPSoilsMapUnits_ExportFeatures",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Medical_Care_Facilities_2011",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Metropolitan_Planning_Organizations_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/miss_in_in",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Model_Library_CNMS_gdb_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/MPA",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/MPO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Municipal_Boundaries_of_Indiana",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Municipalities_Eligible_for_LIT",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Museum_Locations_2007",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/N2022_heat",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/N2022",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Naloxone_Providers_2018",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/National_Geodetic_Control_Stations_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/National_Inventory_of_Dams_1996",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/National_Pollutant_Discharge_Elimination_System",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/National_Water_Quality_Portal_Sites_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/National_Wetlands_Inventory",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Natural_Regions",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/NaturalCommunities_DNR_INHD_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/NaturePreservesCoastalArea",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Navigable_Waterways_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/NextGenerationForestry_IDNR_TRACTS",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/NHD_Classified_Flowlines",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/NHD_Discrete_Waterbodies",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/NHD_Linear_Waterbodies",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/NHD_Local_Resolution_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/NHD_Local_Resolution",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/NHD_Named_Lakes__Ponds__etc",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/NHD_Named_Rivers__Streams__etc",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/NHD_Unclassified_Flowlines",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/NHD_View",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/NLCD",
+   "type": "MapServer"
+  },
+  {
+   "name": "Hosted/NOAA_CORS_Locations_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/NOAA_IN_LULC_1996_2020_PercentChange_Final",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Non_Levee_Embankments_ISJ_IN_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Non_Select_Bridges_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Notices_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/NPs_Buffer",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/NPS_River_Inventory_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/NRCS_Easements_of_Indiana_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/NRHP_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Nurseries_DNR_Entomology_IN_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/NWI_LMCP",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Occupancy_Counter_dashboardview_f273197dce384294a410b1611ed7129e",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Occupancy_Counter_mobileview_f273197dce384294a410b1611ed7129e",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/OilAndGasWells",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/OLQ_Locations",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Opioid_Distribution_Cities_and_Towns_2006___2012",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Opioid_Distribution_Counties_2006___2012",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Original_AWHTC",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Orthoimagery_Tier_Map_2021_2024",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Orthoimagery_Tier_Map_2025_2028",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Other_Assets_Asset_Management_view",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Outstanding_State_Resource_Waters",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Ozone_8_hr_Non_Attainment_Areas_2015_Standard",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/PAD_US_Park_Boundaries_2022",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Parcel_Boundaries_2019",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Parcel_Boundaries_of_Indiana_2018",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Parcel_Boundaries_of_Indiana_2020",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Parcel_Boundaries_of_Indiana_2021",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Parcel_Boundaries_of_Indiana_2022",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Parcel_Boundaries_of_Indiana_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Parcel_Boundaries_of_Indiana_2024",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Parcel_Boundaries_of_Indiana_2025",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Parcel_Boundaries_of_Indiana_Current",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Parcel_Boundaries_with_Valid_Tax_District_Codes_2020",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Parcel_Boundaries_with_Valid_Tax_District_Codes_2021",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Parcel_Boundaries_with_Valid_Tax_District_Codes_2022",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Parcel_Boundaries_with_Valid_Tax_District_Codes_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Parcels_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Parcels_Boundaries_of_Indiana_2013",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Parcels_Boundaries_of_Indiana_2014",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Parcels_Boundaries_of_Indiana_2015",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Parcels_Dissolved",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Patoka_River_NWR_Management_Area_2008",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/PavementAssetManagement_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/PerCapitabyCounty",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Pests_EAB_DNR_Entomology_IN_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/PestsKudzu_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/PETROLEUM_FIELDS_IGS_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/PETROLEUM_FIELDS_IGS",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Plant_Hardiness_Zones_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/PLSS_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/PLSS_County_Boundaries",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/PLSS_Indiana_State_Boundary",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/PLSS",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/PM10_Annual_Non_Attainment_Areas_1987_Standard",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/PM2_5_Annual_Non_Attainment_Areas_1997_Standard",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/points",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Population_Change_1890_2000",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Port_Locations_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Posey_CSLF_Feb2025",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Power_Plants_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Precipitation_Stations_2010",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Precipitation_Stations_2011",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Precipitation_Stations_2012",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Precipitation_Stations_2013",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Precipitation_Stations_2014",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Precipitation_Stations_2015",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Precipitation_Stations_2016",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Precipitation_Stations_2017",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Precipitation_Stations_2018",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Presettlement_Land_Cover_IDNR_2016",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Prime_Farmland_Soils_USDA_1994",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Proposed_Boundary_Line",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Protected_Area_Database_Boundaries",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/PSAP_Boundaries_of_Indiana_Current",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/PSAP_Boundary_Topology_Errors_04132026",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Public_Airport_Locations_INDOT",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Public_Libraries_2020",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Public_Libraries_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Public_School_Locations_2021_2022",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Public_Use_Microdata_Areas",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Put_and_Take_Salmonid_Streams",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/QC_DA",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/quick_capture_geotest",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Rail_System_2006",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Railroad_100k_NTAD_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Railroad_Crossings_2006",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Reach_Index_2019",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Recreational_Facility_Locations",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Registered_E_Waste_Storage",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Religious_Centers_2020",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/ReportingIAdev",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/ReportingIA",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/ReservoirHabitat_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Restricted_Sites",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/River_Basin_Commissions_IN_DNR_PROD",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/RiverMiles_DNR_FW_IN_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Rivers_Outstanding_NRC_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Road_Centerlines_of_Indiana_2020",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Road_Centerlines_of_Indiana_2021",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Road_Centerlines_of_Indiana_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Road_Centerlines_of_Indiana_2024",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Road_Centerlines_of_Indiana_2025",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Road_Centerlines_of_Indiana_Current",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Rooms",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/RRAbandonments_DNR_OutRec_IN_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Rural_Hospitals_and_Health_Clinics_2007",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Rusty_Patch_Bumble_Bee_High_Potential_Zones_USFWS_2017",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Rusty_Patch_Bumble_Bee_Low_Potential_Zones_USFWS_2017",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/S_CSLF_Ar",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/S_CSLF_Gibson",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Sanitary_Sewer_System_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/School_Districts_with_Poverty_Estimates_2004",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/School_Districts_with_Poverty_Estimates_2011",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/School_Districts_with_Poverty_Estimates_2013",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/School_Districts_with_Poverty_Estimates_2022",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Schools_of_Indiana_2002",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Schools_Polis_IDOE_2010",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Section_Corners_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Section_Corners_on_County_Boundaries_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Select_Bridges_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Senate_Districts_of_Indiana_Current",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Senate_Table",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/service_299c47faefc74318808cf706127a726b",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/service_4b828dea81f74943a0ce96ac0e76b9f6",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/service_63178a6dc4464a7f9a454a1e0faddf9d",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/service_6b2b063bbc2448b29dae2ccb7cd89633",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/service_7fbbaf29e7d443ad80565198993196c9_form",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/service_949afc397cac41b8b582a720806d7ac0",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/service_9749153de68b403db94e5ed511749a9f",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/service_9f7b9b63872f4957813df13644d2841e",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/service_9fc0ffff6452432ca0f60eb2520ed36a",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/service_bab848ae9d5540a48f8d554f5075606a",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/service_c8439a111b674daa98fea891c27acee0_form",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/service_cbc3477e2a1d46eb95a2a9f74f330f7a",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/service_d42257397dc24f8282cfeb8adcf00f31",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Shrink_Swell_Characteristics_of_Soils_1994",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Significant_Facilities",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Significant_Sites_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/SignificantWaterWithdrawl_2_view",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/SignificantWaterWithdrawl_6_view",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/SignificantWaterWithdrawl_Facilities",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/SignificantWaterWithdrawl_IntakesByUse_",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/SignificantWaterWithdrawl_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/SignificantWaterWithdrawl_Wells",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Siren_Locations_1_Mile_Buffer",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/SirenLocations",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Site_Investigations",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Sites_Camping",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Sites_FWA",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Sites_Inns",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Sites_NaturePreserves",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Sites_Reservoirs",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Sites_ShootingRanges",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Sites_SPR",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Sites_StateForests",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Sites_StateParks",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/SLF_INPUT",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/SLO_Disposition_2_view",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/SLO_Parcels_5_view",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/SLO_Parcels_ROa",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Smog_Watch_Regions",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/SO2_1_hr_Non_Attainment_Areas_2010_Standard",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Soil_General_Map_STATSGO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Soil_Map_Units_SSURGO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Soil_Sampling_Survey_Field_Staff_Spring_2026_V3_3_view",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Soil_Sampling_Survey_Growers_Spring_2026_V3_3_view",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Soil_Sampling_Survey_P1_V2_Data_Entry",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Soil_Sampling_Survey_P1_V2_Round_2_4_link_view",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Soil_Sampling_Survey_P1_V2_Round_2_public_view",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Soil_Sampling_Survey_P1_V2_view",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Soil_Sampling_Survey_P2_data_entry",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Soil_Sampling_Survey_P2_Round_2_public_view",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Soil_Sampling_Survey_P2_Round_2_query_view",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Soil_Sampling_Survey_P2_view",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Soil_Special_Feature_Lines_SSURGO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Soil_Special_Feature_Points_SSURGO_",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Solid_Waste_Management_Districts",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Special_Needs",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Spills",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/State_Cleanup_Sites",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/State_Facilities",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/State_Libraries_and_Library_Districts_2026",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/State_of_Indiana_Legislative_Boundaries",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/StateForestUnits_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/StateForestUnits",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/StateGeocoder_AddressPoints_2024",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/StateGeocoder_StreetCenterlines_2024",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Station_Photos_2",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Station_Photos_INPUT",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Station_Photos_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/StationPoints_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Stats_Explorer_Data",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Storage_Tanks",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Stormwater_System_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Stream_Drainage_Areas_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/StreamMiles_24K_DNR_DOW_IN_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/StreamMiles_24K_DNR_DOW_IN_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Streams_DrainageArea_DNR_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Streams_Salmonid_DNR_IN_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Streamside_Camping_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/StreamsNavigable_DNR_IN_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/StreamsScenic_DNR_OR_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Street_Centerlines_of_Indiana_2022",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Submitted_County_Boundary",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Substations",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Superfund_Sites",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Surface_Impoundments",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Surface_Water_Quality_Monitoring_Strategy_Areas",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/survey123_3a15d3d16ce34786b4f6a31e4d1bc811_form",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/survey123_5a1b86c30507443f86024cc85c3a5f7c_form",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/survey123_5a47c009aa77431393d5251f9c63f09c_results",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/survey123_6f90bd99c2364b21b79d902669e73c6c_form",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/survey123_c07e35b0d73a42ef98c1e2ee39fb1276_form",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/survey123_d8459c12c54544f2a2d57ef487e246fd",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/survey123_d85aeadd30f944fdb3d8db6fbaf97f51_form",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/survey123_d9af5504d7514a73b977a73e6e0ca41e_results",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/survey123_dd3cd9423e0844ab87f5d0aff4f44354_form",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/survey_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/SWMP_ServiceAreas_DNR_IN_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/SWWF",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Sylvan_Contour_Raster",
+   "type": "MapServer"
+  },
+  {
+   "name": "Hosted/Sylvan_Lake_Bathymetry",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Sylvan_Lake_Grid",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/SylvanLakeBathymetry",
+   "type": "MapServer"
+  },
+  {
+   "name": "Hosted/SylvanUTM",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/SylvanWGS",
+   "type": "MapServer"
+  },
+  {
+   "name": "Hosted/System_Bridges_2012",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Taxing_Districts_2020",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Taxing_Districts_2021",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Taxing_Districts_2022",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Taxing_Districts_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Taxing_Districts_2024",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Telephone_Area_Code_Boundaries",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/TestPublishSteve9999Public",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Time_Zone_Boundaries",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Tire_Sites",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Township_Boundaries_of_Indiana",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Traffic_Analysis_Zones_2000",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Trail_Counts_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Trail_Miles_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/TrailADT_DNR_OutRec_IN_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Trailheads_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/TrailMilesPerCapita_Townships_May_30_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/TrailPoints_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Trails10_18_21_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Trails_4",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Trails_AGOL_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Trails_Buffer",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Trails_CoastalCounties",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Transect_2023_Data_WFL1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Tree_Plantings_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/TreeMaintenance_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/TreePlantingSites_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Unconsolidated_Aquifer_Systems_IDNR",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Unconsolidated_Aquifer_Systems_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Unconsolidated_Aquifer_SystemsTILE",
+   "type": "MapServer"
+  },
+  {
+   "name": "Hosted/Unconsolidated_Wells",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/UnconsolidatedAquiferSystemsLOCAL",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Unconsolidated",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Underground_Storage_Tanks",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Unspecified_Well_Type",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/US_National_Grid_Boundaries",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/US_Railroads_1870_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/USACE_Levee_Feature_Centerlines",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/USBR_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/USCongressionalDistricts_IN",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/USGS_Groundwater_Monitoring_Well_Locations_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/USGS_Streamflow_Gauges_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/USGS_Topo_Boundaries",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/USSenate",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/VEP_AddressAnomalies_Demo",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/VEP_CenterlineAnomalies_Demo",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/VEP_Metrics_for_LIT",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/VEP_ParcelAnomalies_Demo",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/VisionaryProgress_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/VisionaryTrails_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Volunteer_Remediation_Program_v3",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Volunteer_Remediation_Programs",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Voting_District_Boundaries_2010",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Voting_District_Boundaries_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Voting_District_Boundaries_2024",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Voting_Districts_2000",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Voting_Districts_of_Indiana_USCB_2020",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Waste_Disposal_Storage_and_Handling",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Water_Wells_and_Boreholes_1998",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/WaterBodyName_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Watershed_Groups",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Watershed_Management_Areas_Secure",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/WaterWells_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/WaterWells_DNR_Water_IN_1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/WBD_Update_Input_RO1",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Weather_Sensors_INDOT",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/WebEOCFS_ArcGISExtensionTest_One",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/WebEOCFS_County_Burn_Bans",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/WebEOCFS_MassCare_Shelters",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/WebEOCFS_MassCare_Stations",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/WebEOCFS_TravelAdvisory_WebSite",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/WebEOCFS_WindshieldDamageAssessment",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Where_To_Backpack_RO",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/WIMN_Legacy_Layers",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Wind_Turbines_of_Indiana_USGS_2023",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Wireline_Broadband_Coverage_Boundaries_IOT",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/Woodland_Land_Cover_2019",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/YearAgencyCountyRunTypeVeh",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/YearAgencyRunType",
+   "type": "FeatureServer"
+  },
+  {
+   "name": "Hosted/YearCountyAgency_Freq",
+   "type": "FeatureServer"
+  }
+ ]
+}
